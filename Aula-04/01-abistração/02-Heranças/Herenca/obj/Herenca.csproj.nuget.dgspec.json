@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-03\\Exercicios\\exercicio-06\\exercicio-06.csproj": {}
+    "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-04\\01-abistração\\02-Heranças\\Herenca\\Herenca.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-03\\Exercicios\\exercicio-06\\exercicio-06.csproj": {
+    "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-04\\01-abistração\\02-Heranças\\Herenca\\Herenca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-03\\Exercicios\\exercicio-06\\exercicio-06.csproj",
-        "projectName": "exercicio-06",
-        "projectPath": "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-03\\Exercicios\\exercicio-06\\exercicio-06.csproj",
+        "projectUniqueName": "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-04\\01-abistração\\02-Heranças\\Herenca\\Herenca.csproj",
+        "projectName": "Herenca",
+        "projectPath": "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-04\\01-abistração\\02-Heranças\\Herenca\\Herenca.csproj",
         "packagesPath": "C:\\Users\\DS1.ECFP790N1308528\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-03\\Exercicios\\exercicio-06\\obj\\",
+        "outputPath": "c:\\Users\\DS1.ECFP790N1308528\\Documents\\2026-i2DS\\Aula-04\\01-abistração\\02-Heranças\\Herenca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
