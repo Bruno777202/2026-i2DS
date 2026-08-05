@@ -1,1 +1,8 @@
-﻿Console.WriteLine("Hello, World!");
+﻿internal partial class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Digite um saque: ");
+        
+    }
+}
